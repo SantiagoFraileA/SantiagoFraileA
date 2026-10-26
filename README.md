@@ -100,17 +100,20 @@ My background centers on data engineering, process automation, and full-stack de
 
 ### GitHub Activity
 
-<div align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr align="center">
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=SantiagoFraileA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide=issues,prs,contribs&rank_icon=github" alt="GitHub stats" height="165" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoFraileA&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6" alt="Top languages" height="165" />
+    </td>
+  </tr>
+</table>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SantiagoFraileA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoFraileA&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top languages" />
-
-  <br/><br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=SantiagoFraileA&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SantiagoFraileA&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
+</p>
 
 ---
 
